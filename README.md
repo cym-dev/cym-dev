@@ -16,6 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=cym-dev&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cym-dev&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
