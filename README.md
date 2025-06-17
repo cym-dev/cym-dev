@@ -17,5 +17,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=cym-dev&theme=github)
 
